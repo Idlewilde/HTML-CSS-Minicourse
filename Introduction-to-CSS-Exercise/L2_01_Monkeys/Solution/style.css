@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    background-color: #FAEBC8 ;
+    padding: 80px 150px;
+    font-family: "Open Sans", serif;
+    font-size: small;
+}
+
+body section{
+background-color: white ;
+padding: 30px 110px;
+border-radius: 20px;
+-webkit-box-shadow: 6px 4px 15px 0px #000000; 
+box-shadow: 6px 4px 15px 0px #000000;
+
+}
+
+body section article{
+    display: inline-block;
+    width: 180px;
+    padding: 30px;
+}
+
+body section article img {
+   width:75px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+   
+}
+
+body section article p em{
+    text-shadow: 31px 31px 2px rgba(150, 150, 150, 1);
+    color:brown;
+}
+
+body section article h2 {
+    text-align: center;
+}
+
+#hear{
+    padding-bottom: 35px;
+}
+
+#speak{
+    
+        padding-bottom: 15px;
+    
+}
+

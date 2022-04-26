@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body{
+    font-family: "Open Sans", serif;
+    width:fit-content;
+    background-color:white;
+    margin:auto;}
+
+body main{
+    background-color: rgb(214,116,114);
+}
+  
+
+
+ header nav{
+    text-align: center;
+
+}
+body header nav ul li{
+    display: inline-block;
+    padding-left: 25px;
+   
+}
+
+body header nav ul{
+    float: center;
+}
+
+body header nav ul li a{
+text-decoration: none;
+font-size: 13px;
+font-style: bold;
+display: inline-block;
+color:rgb(214,116,114)
+
+}
+
+body main article h1{
+    text-align: center;
+   
+}
+
+body main article p{
+    width: 320px;
+    font-size: 11px;
+    text-align: center;
+}
+
+#flower{
+    background-image: linear-gradient(rgba(21, 15, 41, 0.306), rgba(57, 27, 43, 0.772)),url(../Requirements-and-Resources/Images/header-flower.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:100% 100%;
+    width:1280px;
+    height:500px;
+    text-align: center;
+}
+
+#flower h1{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding-top: 180px;
+}
+
+#flower hr{
+    background-color:rgb(214,116,114);
+    width:50px;
+    height:1.5px;
+    border:transparent;
+}
+
+body main article p{
+    color:white;
+    text-align: center;
+    padding:20px 480px;
+    font-size: 11px;
+    
+}
+
+#sunflower{
+    background-color:rgb(214,116,114);
+    text-align: center;
+    color:white;
+    padding-bottom: 25px;
+}
+
+#sunflower hr{
+    background-color:white;
+    width:50px;
+    height:1.5px;
+    border:transparent;
+}
+
+#sunflower button{
+    background-color: white;
+    border:transparent;
+    border-radius: 3px;
+    color:rgb(214,116,114);
+    padding:8px 15px;
+    font-size: 10px;
+    font-weight: bolder;
+}
+
+body main section{
+    background-color: white;
+    
+}
+
+body main section article{
+    display: inline-block;
+    width: 180px;
+    padding: 5px 30px;
+    text-align: center;
+    vertical-align: top;
+
+   
+}
+
+body main section article img {
+   width:50px;
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+   
+}
+
+body main section hr{
+        background-color:rgb(214,116,114);
+        width:50px;
+        height:1.5px;
+        border:transparent;
+    }
+
+    body main section h4{
+text-align: center;
+padding-top:20px;
+    }
+
+    body main section article h5{
+        
+        margin-top:5px;
+    }
+
+body main section article p{
+    padding:0px 20px;
+    color:dimgrey;
+        width: 150px;
+}
+
+#design{
+    padding-left:305px;
+    padding-top:0px;
+}
+
+footer{
+    background-color: rgb(214,116,114);
+    color:white;
+font-size: 12px;
+padding:10px;
+text-align: center;
+}
+
+

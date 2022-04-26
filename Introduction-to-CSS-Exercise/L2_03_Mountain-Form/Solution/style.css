@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;400&display=swap');
+
+body{
+    font-family: Lato, sans-serif;
+    width:1300px;
+}
+
+body main{
+    margin: 70px 200px;
+}
+
+#withpicture{
+
+
+background-image:
+    linear-gradient(rgba(21, 15, 41, 0.306), rgba(57, 27, 43, 0.772)),url(../Requirements-and-Resources/Images/peak.jpg);
+    width:400px;
+    height:600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    display: inline block;
+    margin:0px;
+    float:left;
+    border-right-color: #38082A;
+    border-right-style: solid;
+    border-width: 4px;
+   
+    
+}
+
+body main section{
+    display: inline block;
+    margin:0px;
+}
+
+body main h1{
+    padding-top:30px;
+    height:450px;
+}
+
+#form{
+    border-color: #38082A;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 10px;
+    margin-top:50px;
+    margin-left: 390px;
+    padding-left: 150px;
+    padding-top: 100px;
+    height: 492px;
+}
+
+#form p{
+    padding-left:20px;
+    color: #38082A;
+}
+
+#form p label{
+    color:rgb(218, 217, 220)
+}
+
+#form p input{
+    font-size: 18px;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+
+#form p button{
+    padding: 5px 15px;
+    color:white;
+    background-color: #38082A;
+    border-color: transparent;
+    border-radius: 5px;
+
+}
+
+#form p span{
+    color:#38082A
+}
+
+
+
+
+
+
+
